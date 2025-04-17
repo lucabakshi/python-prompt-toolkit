@@ -17,6 +17,7 @@ __all__ = [
     "in_terminal",
 ]
 
+# Type variable for generic return type handling
 _T = TypeVar("_T")
 
 
